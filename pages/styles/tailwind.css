@@ -107,8 +107,8 @@
     .token.deleted:not(.prefix),
     .token.inserted:not(.prefix) {
       display: block;
-      px: $4;
-      mx: -$4;
+      px: 16px;
+      mx: -16px;
     }
 
     .token.deleted:not(.prefix) {
