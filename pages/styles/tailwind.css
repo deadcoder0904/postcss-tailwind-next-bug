@@ -28,7 +28,7 @@
   }
 
   pre {
-    --background: hsla(206 12% 89.5% / 5%);
+    --background: rgba(17, 24, 39, 1);
     --text: var(--colors-white);
     --syntax1: var(--colors-orange);
     --syntax2: var(--colors-turq);
